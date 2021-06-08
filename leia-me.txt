@@ -1,9 +1,0 @@
-TEcnologias utilizadas:
-PHP 7
-banco de dados mySql
-framework para CSS : Milligram
-
-Para criar o banco de dados, há um arquivo banco.sql que contém os comandos para criar
-o banco + usuário administrador
-
-para acessar o banco através do PHP, na pasta bd/db.php é possível alterar os dados de acordo com a configuração do computador
