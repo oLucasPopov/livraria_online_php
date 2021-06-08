@@ -1,6 +1,6 @@
 # Livraria Online com PHP
 
-## Projeto realizado para obter proficiência na matéria de Linguagens de Programação da FATEC - JAÚ
+## Projeto realizado para obter proficiência na matéria de Linguagens de Programação na faculdade FATEC - JAÚ
 
 ### 🛠 Tecnologias
 
